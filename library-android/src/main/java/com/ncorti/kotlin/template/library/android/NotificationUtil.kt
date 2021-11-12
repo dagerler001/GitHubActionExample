@@ -7,6 +7,7 @@ import android.content.Context
 import android.os.Build
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
+import com.dagerler.github.action.library.R
 
 private const val CHANNEL_ID = "default"
 private const val NOTIFICATION_ID = 42
