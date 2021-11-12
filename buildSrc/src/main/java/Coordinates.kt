@@ -1,4 +1,4 @@
-const val PUBLISHING_GROUP = "com.ncorti.kotlin.template"
+const val PUBLISHING_GROUP = "com.github.dagerler001.githubactionexample"
 
 object AppCoordinates {
     const val APP_ID = "com.dagerler.github.action.example"
